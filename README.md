@@ -1,4 +1,4 @@
-# 3D Rotation on Parallel Y and Z Axes
+# 3D Rotation on Parallel X,Y and Z Axes
 
 ### Description
 This project, completed as part of the coursework at the Benemérita Universidad Autónoma de Puebla, focuses on rotating a 3D pyramid along the Y and Z axes using parallel rotation. The aim is to apply matrix transformations to rotate a 3D object in space, enhancing the understanding of 3D graphics and transformations.
